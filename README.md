@@ -1,3 +1,4 @@
 **RepoAnalyser**
 
-Here you can find tasks that I had provide to show my abilities in research and coding
+Here you can find some lines of code that I had provide to show my abilities in programming
+
